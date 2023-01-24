@@ -17,3 +17,6 @@ For my audio narrative, I wanted to pursue something that is familiar to me. I a
 | Weights dropping | record or stock |
 | Someone asking if weights/a machine are free | record freinds voice | 
 
+**Audio Story Timeline**
+0:00 - 0:05 Increase volume of gym background noises
+0:06 Say "Hello" to check-in worker
