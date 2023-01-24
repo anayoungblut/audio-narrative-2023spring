@@ -13,7 +13,10 @@ For my audio narrative, I wanted to pursue something that is familiar to me. I a
 | Bag unzipping | record |
 | Shoes tying | stock |
 | Bag sliging into cubby | record |
-| Workout music | find available music or receive permission from artist |
+| Workout music | find available music or receive permission from artist https://soundcloud.com/metroboomin/superhero-heroes-villains?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing from SoundCloud|
 | Weights dropping | record or stock |
 | Someone asking if weights/a machine are free | record freinds voice | 
 
+**Audio Story Timeline**
+0:00 - 0:05 Increase volume of gym background noises
+0:06 Say "Hello" to check-in worker
