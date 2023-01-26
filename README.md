@@ -24,4 +24,6 @@ I am on the right track in terms of having my ideas and sources/sounds that I ne
 
 **Lesson 6: In Class Reflection**
 
-I am excited for my porject to feel as realistic as possible. I want to recreate exactly what I hear when I am at the gym working out. Every small, subtle sound is influential in an audio story and I am doing my best to consider each one of those. Something I am worried about is my use of Audacity as the audio editing studio/platform. I fear that my lack of skills when it comes to using it may negatively affect my grade despite having really exciting ideas that I know are achievable. 
+I am excited for my project to feel as realistic as possible. I want to recreate exactly what I hear when I am at the gym working out. Every small, subtle sound is influential in an audio story and I am doing my best to consider each one of those. Something I am worried about is my use of Audacity as the audio editing studio/platform. I fear that my lack of skills when it comes to using it may negatively affect my grade despite having really exciting ideas that I know are achievable. 
+
+Something that makes an audio narrative stand out is a feeling of fullness, like every little background noise is included to make the soundscape as realistic as possible. Seamless tranisitons and effects that add to the whole narrative make for a memorable audio story as well. Cohesion is an important aspect of good audio narratives. 
