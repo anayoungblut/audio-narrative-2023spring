@@ -5,18 +5,17 @@ For my audio narrative, I wanted to pursue something that is familiar to me. I a
 
 | **Assets** | **Solutions** | 
 | ---------- | ------------- |
-| Saying "Hello" to worker | record my voice |
-| Swiping ID card | record or stock | 
+| Saying "Hello" to worker | record my voice (HAVE) |
+| Swiping ID card | record or stock (HAVE from Freesound) | 
 | Worker saying "Have a nice workout" | record either a friend or an actual worker |
 | Saying "Thank you" | record my voice |
-| Background gym noise | record in the Pete |
+| Background gym noise | record in the Pete (HAVE- recorded myself) |
 | Bag unzipping | record |
-| Shoes tying | stock |
+| Shoes tying | stock (HAVE from Freesound) |
 | Bag sliging into cubby | record |
 | Workout music | find available music or receive permission from artist https://soundcloud.com/metroboomin/superhero-heroes-villains?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing from SoundCloud|
 | Weights dropping | record or stock |
 | Someone asking if weights/a machine are free | record freinds voice | 
 
-**Audio Story Timeline**
-0:00 - 0:05 Increase volume of gym background noises
-0:06 Say "Hello" to check-in worker
+**1/26 Audio Narrative Preview Reflection**
+I am on the right track in terms of having my ideas and sources/sounds that I need in line, but I am struggling with some of the features of Audacity. I am trying to move a track to a later time in the audio narrative, but do not have the Time Shift tool or ability to grab and drag but he rounded top heading of the clip. I was able to figure out how to fade in my background noise sound to mimic what a person hears when they are walking to the gym. At this stage, I am more comfortable using Adobe Audituin, but also know that I am just unfamiliar with the features and uses of Audacity. My next steps include getting more of the recordings--the ones I need to do myself, I mean. I also need to figure out how to move clips throughout a track because this is my biggest challenge at this stage in my project. I plan on using a male voice for the gym worker, so I might ask my dad. I figure that a male voice sounds most unlike mine and I want listeners to easily differentiate between "characters." This means I will also need to choose a voice that is different from mine for the person asking me if I am using a machine/set of weights. One concern I have is that I followed the steps in the uplaoding a preview aup3 and mp3 file video, but am not seeing them in my repository. I'm assuming this just means that they are still uplaoding because they are large files and I uplaoded not too long before typing this reflection. I hope to play around with some more effects, like turn my music completely to the left or right to mimic me taking out one earbud to listen to the person asking to use weights/a machine. 
