@@ -36,3 +36,5 @@ Where to go from here: I definitely need to fine-tune my audio narrative. I plan
 
 I was correct that audacity is a learning curve. It is much easier now than it was in my last reflective update. I still personally prefer Adobe Audition, but I am happy to know another audio editing platform for future use. One small thing- I’m nervous that my GitHub desktop app is not pushing my files through to my repository. It’s normally fine after I quit the application and redo the action, but I still worry things are not showing up and that I’m not receiving credit for my work. 
 
+**Audio narrative is listed under "digital media audio narrative_1.30.real.aup3" with the summary "preview 2"**
+
