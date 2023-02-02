@@ -9,6 +9,8 @@
   Source- Freesound
   
   License- CC BY 4.0
+  
+  URL- [(https://freesound.org/s/669228/)]
 
 
 **Techno music**
@@ -20,6 +22,8 @@
  Source- Freesound
  
  License- CC BY 4.0
+ 
+ URL- [(https://freesound.org/s/624874/)]
   
 
 All other audio was recorded by me. Voices that are not mine gave verbal, recorded permission to be used.
