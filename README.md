@@ -38,3 +38,14 @@ I was correct that audacity is a learning curve. It is much easier now than it w
 
 **Audio narrative is listed under "digital media audio narrative_1.30.real.aup3" with the summary "preview 2"**
 
+**FINAL REFLECTION**
+
+I am happy with this cut of my audio narrative. I feel as though I met baseline criteria and reached for some aspirational effects with left/right pan and a clear ending by fading out the audio. Some of my feedback stated that the location was not confirmed until a bit later in the narrative. Personally, I like the effect that keeping the listener guessing until later in the narrative has; it entices the listener to continue listening through the entire soundscape to determine where it is taking place. Each clip is individually recorded and layered together. I am happy with the seamlessness of the two conversations I have in my narrative. I had one of my friends listen to my narrative and she asked me if I recorded it in real time as opposed to having individual conversation clips. I really enjoyed recording and editing this project. I love working with sound and the opportunities for creativity it affords. I hope to do more work with sound in the future. 
+
+<img width="1440" alt="Screen Shot 2023-02-06 at 1 19 06 PM" src="https://user-images.githubusercontent.com/122397120/217053306-fc7715f2-848b-4ffb-a9f3-4bfa35f17ee3.png">
+<img width="1440" alt="Screen Shot 2023-02-06 at 1 18 59 PM" src="https://user-images.githubusercontent.com/122397120/217053347-41d57dbd-e210-4395-86d9-1e42f837e1ef.png">
+<img width="1440" alt="Screen Shot 2023-02-06 at 1 18 52 PM" src="https://user-images.githubusercontent.com/122397120/217053380-ea57e22f-f5b9-4c6d-9c5f-6571d2ca225b.png">
+<img width="1440" alt="Screen Shot 2023-01-30 at 6 38 24 PM" src="https://user-images.githubusercontent.com/122397120/217053386-6789aa5c-d652-4623-a5aa-331cb4bbb89a.png">
+<img width="744" alt="Screen Shot 2023-02-06 at 1 17 58 PM" src="https://user-images.githubusercontent.com/122397120/217053393-4eaf6ecc-cdbf-4b60-9247-f20c3c14ce56.png">
+<img width="739" alt="Screen Shot 2023-02-06 at 1 17 04 PM" src="https://user-images.githubusercontent.com/122397120/217053401-e59ac71f-cb8f-499a-b564-2f74455218f6.png">
+<img width="757" alt="Screen Shot 2023-02-06 at 1 17 38 PM" src="https://user-images.githubusercontent.com/122397120/217053407-634fa0fa-b1a2-45c1-9a69-da6b622c396e.png">
